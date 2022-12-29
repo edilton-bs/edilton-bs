@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div> 
+<div srtyle="align: ccenter"> 
 <a href="https://github.com/edilton-bs">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilton-bs&layout=compact&langs_count=7&theme=dracula"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=edilton-bs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
