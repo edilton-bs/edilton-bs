@@ -4,14 +4,14 @@
   Applied Mathematics graduate passionate about technology, data, and problem solving.
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/edilton-bs">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=edilton-bs&show_icons=true&theme=react&include_all_commits=true&count_private=false&hide_border=true" />
   </a>
   <a href="https://github.com/edilton-bs">
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilton-bs&layout=compact&langs_count=6&theme=react&hide_border=true" />
   </a>
-</p>
+</p> -->
 
 ## About me
 
