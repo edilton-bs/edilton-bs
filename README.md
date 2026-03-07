@@ -1,29 +1,50 @@
-# Hi! 👋🏻  My name is Edilton. 
+<h1 align="center">Hi, I'm Edilton 👋🏻</h1>
 
-<div>
+<p align="center">
+  Applied Mathematics graduate passionate about technology, data, and problem solving.
+</p>
+
+<p align="center">
   <a href="https://github.com/edilton-bs">
-  <img height="200em"   align="center" src="https://github-readme-stats.vercel.app/api?username=edilton-bs&show_icons=true&theme=react&include_all_commits=true&count_private=false"/>
-  <img height="200em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilton-bs&layout=compact&langs_count=7&theme=react" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=edilton-bs&show_icons=true&theme=react&include_all_commits=true&count_private=false&hide_border=true" />
+  </a>
+  <a href="https://github.com/edilton-bs">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilton-bs&layout=compact&langs_count=6&theme=react&hide_border=true" />
+  </a>
+</p>
 
-</div>
- <br>
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center" alt="MatLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    
- <br><br>
-  <a href="https://www.instagram.com/edilton.brandao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/edilton-brandao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
-</div>
-  
- 
- <!-- ![Snake animation](https://github.com/edilton-bs/edilton-bs/blob/output/github-contribution-grid-snake.svg) -->
- 
-</div>
+## About me
+
+- Applied Mathematics graduate
+- Interested in programming, data, automation, and analytical problem solving
+- Working with Python, R, SQL, and web technologies
+
+## Tech Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+</p>
+
+## Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/edilton-brandao/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/edilton.brandao" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
+
+<!-- ![Snake animation](https://github.com/edilton-bs/edilton-bs/blob/output/github-contribution-grid-snake.svg) -->
