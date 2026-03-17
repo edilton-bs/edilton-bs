@@ -1,23 +1,15 @@
 <h1 align="center">Hi, I'm Edilton 👋🏻</h1>
 
 <p align="center">
-  Applied Mathematics graduate passionate about technology, data, and problem solving.
+  MSc student in Applied Mathematics and Data Science at FGV EMAp.
 </p>
-
-<!-- <p align="center">
-  <a href="https://github.com/edilton-bs">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=edilton-bs&show_icons=true&theme=react&include_all_commits=true&count_private=false&hide_border=true" />
-  </a>
-  <a href="https://github.com/edilton-bs">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilton-bs&layout=compact&langs_count=6&theme=react&hide_border=true" />
-  </a>
-</p> -->
 
 ## About me
 
-- Applied Mathematics graduate
-- Interested in programming, data, automation, and analytical problem solving
-- Working with Python, R, SQL, and web technologies
+- MSc student in Applied Mathematics and Data Science at FGV EMAp
+- BSc in Applied Mathematics
+- Interested in data science, statistical modeling, and analytical problem solving
+- Working with Python, R, SQL, and data analysis tools
 
 ## Tech Stack
 
