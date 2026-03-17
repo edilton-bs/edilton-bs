@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Edilton 👋🏻</h1>
 
 <p align="center">
-  MSc student in Applied Mathematics and Data Science at FGV EMAp.
+  MSc student in Applied Mathematics and Data Science at FGV EMAp (Getulio Vargas Foundation – School of Applied Mathematics).
 </p>
 
 ## About me
