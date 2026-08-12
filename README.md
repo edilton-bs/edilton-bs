@@ -8,7 +8,7 @@
 
 - MSc student in Applied Mathematics and Data Science at FGV EMAp
 - BSc in Applied Mathematics
-- Interested in data science, statistical modeling, and analytical problem solving
+- Interested in data science and epidemiological research
 - Working with Python, R, SQL, and data analysis tools
 
 ## Tech Stack
